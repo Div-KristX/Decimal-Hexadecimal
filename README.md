@@ -9,5 +9,5 @@ Using whole division and remainder division
 
 
 
-...............................................
+
 ![Screenshot_1](https://user-images.githubusercontent.com/70589107/118487419-5bfd5700-b723-11eb-93fc-198e6d465dfd.jpg)
